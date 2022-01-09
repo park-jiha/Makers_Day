@@ -17,6 +17,7 @@
 - Face Detection 공부
 - 근거있는 자료를 기반으로 객관적인 class 분류 기준 선정
 - 데이터 Crawling
+- 데이터셋 정제 Crop & Labeling
 - 향수 데이터 수집
 - Teachable Machine 이해 및 분류 모델 생성
 - 간단한 결과 웹 생성
@@ -29,4 +30,9 @@
 - 기타 경진대회 참가
 
 ### □ 2021년 여름방학 활동 결과
-![결과 웹 화면](https://user-images.githubusercontent.com/62232217/148691982-ad884b5a-806b-4a52-8e89-219f6a44b606.png)
+1. Google Drive를 이용하여 데이터 저장 및 공유(6650장의 얼굴 사진 데이터셋 구축)
+2. 노이즈를 줄이기 위한 1:1 이미지 Crop
+3. 객관적인 기준 선정을 위한 논문 및 신빙성 있는 자료 기반 13개의 class 생성
+4. Teachable Machine을 이용한 이미지 분류 모델 - 남&여 구분 2개의 모델
+5. html을 이용한 웹 제작
+<img src="https://user-images.githubusercontent.com/62232217/148691982-ad884b5a-806b-4a52-8e89-219f6a44b606.png"  width="600" height="1000"/>
