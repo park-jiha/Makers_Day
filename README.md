@@ -29,3 +29,4 @@
 - 기타 경진대회 참가
 
 ### □ 2021년 여름방학 활동 결과
+![결과 웹 화면](https://user-images.githubusercontent.com/62232217/148691982-ad884b5a-806b-4a52-8e89-219f6a44b606.png)
