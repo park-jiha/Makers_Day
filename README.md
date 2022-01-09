@@ -36,3 +36,6 @@
 4. Teachable Machine을 이용한 이미지 분류 모델 - 남&여 구분 2개의 모델
 5. html을 이용한 웹 제작
 <img src="https://user-images.githubusercontent.com/62232217/148691982-ad884b5a-806b-4a52-8e89-219f6a44b606.png"  width="600" height="1000"/>
+
+### □ Makers Day Link
+https://github.com/sejongsmarcle/2021_Summer_Makers_Day
