@@ -1,4 +1,4 @@
-# 2021-Summer SMARCLE Makers Day
+# 2021 SMARCLE Makers Day
 
 ### □ 주제 : AI를 이용한 나만의 맞춤 향수 추천 시스템
 ### □ 기획 의도
