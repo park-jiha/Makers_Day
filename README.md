@@ -8,6 +8,8 @@
 2. Fun AI & Entertainment AI
 3. 이미지 분류 모델의 학습 과정 공부
 
+### □ 팀원 : 박지하, 장윤정, 강호연, 김지은
+
 ### □ 프로젝트 일정
 ![프로젝트 일정](https://user-images.githubusercontent.com/62232217/148686102-3ea45775-390c-4990-995a-828725e9ba70.png)
 
